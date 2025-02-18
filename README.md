@@ -1,10 +1,10 @@
 # Project to reinforce my knowledge in basic Angular
 
-Components
-Data-Binding
-Event listeners
-Routes
-Services
-HTTP calls 
-Directives
-Pipes
+Components <br>
+Data-Binding <br>
+Event listeners <br>
+Routes <br>
+Services <br>
+HTTP calls  <br>
+Directives <br>
+Pipes <br>
